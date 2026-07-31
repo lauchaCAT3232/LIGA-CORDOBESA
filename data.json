@@ -1,0 +1,78 @@
+{
+  "PlayerData": [],
+  "ClubData": [
+    { "ID": 1, "Name": "Belgrano (LCF)", "LeagueID": 1000, "StadiumID": 500, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/1.png" },
+    { "ID": 2, "Name": "Talleres (LCF)", "LeagueID": 1000, "StadiumID": 501, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/2.png" },
+    { "ID": 3, "Name": "Instituto (LCF)", "LeagueID": 1000, "StadiumID": 502, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/3.png" },
+    { "ID": 4, "Name": "Racing de Córdoba (LCF)", "LeagueID": 1000, "StadiumID": 503, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/4.png" },
+    { "ID": 5, "Name": "General Paz Juniors", "LeagueID": 1000, "StadiumID": 504, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/5.png" },
+    { "ID": 6, "Name": "Argentino Peñarol", "LeagueID": 1000, "StadiumID": 505, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/6.png" },
+    { "ID": 7, "Name": "Las Palmas", "LeagueID": 1000, "StadiumID": 506, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/7.png" },
+    { "ID": 8, "Name": "Universitario", "LeagueID": 1000, "StadiumID": 507, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/8.png" },
+    { "ID": 9, "Name": "Barrio Parque", "LeagueID": 1000, "StadiumID": 508, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/9.png" },
+    { "ID": 10, "Name": "Avellaneda", "LeagueID": 1000, "StadiumID": 509, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/10.png" },
+    { "ID": 11, "Name": "Escuela Presidente Roca", "LeagueID": 1000, "StadiumID": 510, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/11.png" },
+    { "ID": 12, "Name": "Libertad", "LeagueID": 1000, "StadiumID": 511, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/12.png" },
+    { "ID": 13, "Name": "Atalaya", "LeagueID": 1000, "StadiumID": 512, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/13.png" },
+    { "ID": 14, "Name": "All Boys", "LeagueID": 1000, "StadiumID": 513, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/14.png" },
+    { "ID": 15, "Name": "AMSURRBaC", "LeagueID": 1000, "StadiumID": 514, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/15.png" },
+    { "ID": 16, "Name": "Camioneros", "LeagueID": 1000, "StadiumID": 515, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/16.png" },
+    { "ID": 17, "Name": "CIBI", "LeagueID": 1000, "StadiumID": 516, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/17.png" },
+    { "ID": 18, "Name": "Villa Azalais", "LeagueID": 1000, "StadiumID": 517, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/18.png" },
+    { "ID": 19, "Name": "Los Andes", "LeagueID": 1000, "StadiumID": 518, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/19.png" },
+    { "ID": 20, "Name": "Unión San Vicente", "LeagueID": 1000, "StadiumID": 519, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/20.png" },
+
+    { "ID": 101, "Name": "Huracán de Barrio La France", "LeagueID": 1001, "StadiumID": 600, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/101.png" },
+    { "ID": 102, "Name": "Bella Vista", "LeagueID": 1001, "StadiumID": 601, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/102.png" },
+    { "ID": 103, "Name": "San Lorenzo de Córdoba", "LeagueID": 1001, "StadiumID": 602, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/103.png" },
+    { "ID": 104, "Name": "Defensores Central Córdoba", "LeagueID": 1001, "StadiumID": 603, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/104.png" },
+    { "ID": 105, "Name": "Deportivo Alberdi", "LeagueID": 1001, "StadiumID": 604, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/105.png" },
+    { "ID": 106, "Name": "El Carmen (Monte Cristo)", "LeagueID": 1001, "StadiumID": 605, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/106.png" },
+    { "ID": 107, "Name": "Independiente (Carlos Paz)", "LeagueID": 1001, "StadiumID": 606, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/107.png" },
+    { "ID": 108, "Name": "MEDEA Club", "LeagueID": 1001, "StadiumID": 607, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/108.png" },
+    { "ID": 109, "Name": "Calera Central", "LeagueID": 1001, "StadiumID": 608, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/109.png" },
+    { "ID": 110, "Name": "Banfield", "LeagueID": 1001, "StadiumID": 609, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/110.png" },
+    { "ID": 111, "Name": "Juvenil Barrio Comercial", "LeagueID": 1001, "StadiumID": 610, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/111.png" },
+    { "ID": 112, "Name": "Deportivo Lasallano", "LeagueID": 1001, "StadiumID": 611, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/112.png" },
+    { "ID": 113, "Name": "Villa Siburu", "LeagueID": 1001, "StadiumID": 612, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/113.png" },
+    { "ID": 114, "Name": "Deportivo Norte (Alta Gracia)", "LeagueID": 1001, "StadiumID": 613, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/114.png" },
+    { "ID": 115, "Name": "Alto Alberdi", "LeagueID": 1001, "StadiumID": 614, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/115.png" },
+    { "ID": 116, "Name": "Defensores de Juveniles", "LeagueID": 1001, "StadiumID": 615, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/116.png" },
+    { "ID": 117, "Name": "Fiorito", "LeagueID": 1001, "StadiumID": 616, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/117.png" },
+    { "ID": 118, "Name": "Yocsina", "LeagueID": 1001, "StadiumID": 617, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/118.png" },
+    { "ID": 119, "Name": "Almirante Brown (Malagueño)", "LeagueID": 1001, "StadiumID": 618, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/119.png" },
+    { "ID": 120, "Name": "La Unión", "LeagueID": 1001, "StadiumID": 619, "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/clubs/120.png" }
+  ],
+  "LeagueData": [
+    {
+      "ID": 1000,
+      "Name": "Liga Cordobesa de Fútbol - Primera A",
+      "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/leagues/1000.png"
+    },
+    {
+      "ID": 1001,
+      "Name": "Liga Cordobesa de Fútbol - Primera B",
+      "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/leagues/1001.png"
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 2000,
+      "Name": "Copa Córdoba",
+      "ImageURL": "https://raw.githubusercontent.com/lauchaCAT3232/LIGA-CORDOBESA/main/logos/cups/2000.png"
+    }
+  ],
+  "StadiumData": [
+    { "ID": 500, "Name": "Predio Villa Esquiú", "Capacity": 2000 },
+    { "ID": 501, "Name": "Predio Amadeo Nuccetelli", "Capacity": 2000 },
+    { "ID": 502, "Name": "Predio La Agustina", "Capacity": 2000 },
+    { "ID": 503, "Name": "Estadio Miguel Sancho", "Capacity": 15000 },
+    { "ID": 504, "Name": "Estadio Lalo Lacasia", "Capacity": 15000 },
+    { "ID": 505, "Name": "Estadio El Trampero", "Capacity": 4000 },
+    { "ID": 506, "Name": "Estadio Las Palmas", "Capacity": 5000 },
+    { "ID": 600, "Name": "Estadio El Globito (Barrio La France)", "Capacity": 3000 },
+    { "ID": 601, "Name": "Estadio Albinegro (Bella Vista)", "Capacity": 2500 },
+    { "ID": 602, "Name": "Estadio Yscadar Ortiz", "Capacity": 3000 },
+    { "ID": 618, "Name": "Estadio Eulogio Reyna", "Capacity": 2500 }
+  ]
+}
